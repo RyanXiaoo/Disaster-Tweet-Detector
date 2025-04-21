@@ -1,0 +1,7 @@
+# Ignore Kaggle API key
+.kaggle/
+*.json
+
+# Ignore raw datasets
+*.zip
+data/
